@@ -48,27 +48,71 @@ e também ofereceu diversos desafios propostos por empresas reais o qual me apro
 
 # Conhecimentos
 
-Meus principais conhecimentos são [Python](https://www.python.org/about/), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) e [TypeScript](https://www.typescriptlang.org/). 
-Todos esses conhecimentos primariamente adquiridos na faculdade e atualmente me dedico a aprimorar com livros e cursos onlines. 
-Durante minha carreira pretendo desenvolver primeiramente JavaScript na área de Back-end.
+Meus principais conhecimentos são [Python](https://www.python.org/about/), [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript), [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML), [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) e [TypeScript](https://www.typescriptlang.org/). Todos esses conhecimentos primariamente adquiridos na faculdade e atualmente me dedico a aprimorar com livros e cursos onlines. Durante minha carreira pretendo desenvolver primeiramente JavaScript na área de Back-end.
 
-Meus Projetos
-Em 2021-2
-Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
+<br />
 
-GIT
+# Meus Projetos
+## 2021-2
+### *1° Semestre - Projeto FATEC*
 
-Tecnologias Utilizadas
-Apresente brevemente as tecnologias utilizadas. Uma tecnologia por linha. Indique qual a importância de cada tecnologia para o projeto.
+<img src="https://github.com/William2819/Portfolio/assets/93256317/d09e3e9d-9446-4650-bbd9-0058e15a4821" width="1000" height="200">
 
-Contribuições Pessoais
-Apresente suas contribuições no projeto. Foque nas funcionalidades em que você mais atuou. Descreva sua atuação em detalhes, especificando que tecnologias você utilizou.
 
-Hard Skills
+<br />
+
+<br />
+
+<div> 
+  
+A empresa parceira foi a própria [FATEC SJC](https://fatecsjc-prd.azurewebsites.net/) que de forma interna, propôs um problema de que os projetos dos alunos da FATEC SJC corriam o risco de serem perdidos ou alterados, pois os respectivos projetos não eram salvos pela FATEC, mas sim, pelos próprios autores dos projeto, dessa forma não haveria outra forma de recuperá-los.
+
+<br />
+
+Para solucionar esse problema, foi utilizado Python juntamente com um framework chamado [Flask](https://www.treinaweb.com.br/blog/o-que-e-flask) para fazer um script que fizesse uma raspagem de forma automática dos repositórios dos projetos dos alunos e salvasse esse repositório em uma conta GitHub da própria FATEC. Para organizar e ficar mais fácil de acessar, foi criado uma página web que de forma interativa apresenta em pastas os links dos repositórios, sendo cada um salvo em sua respectiva pasta organizada por semestre/ano/curso.
+
+</div>
+
+<br />
+
+### O projeto
+<img src="https://github.com/William2819/Portfolio/assets/93256317/42a07b3a-28d0-47a6-9b38-8327e3e15412">
+
+<br />
+
+### Tecnologias Utilizadas
+- Python e Flask para raspagem automática dos repositórios
+
+<img src="https://github.com/William2819/Portfolio/assets/93256317/1993e3ba-867f-42d2-908e-ccac836c4ae1" width="80" height="80"> <img src="https://github.com/William2819/Portfolio/assets/93256317/0bd56b43-fd33-4a98-8755-153f047936cd" width="80" height="80">
+
+- HTML e CSS para interface
+  
+<img src="https://github.com/William2819/Portfolio/assets/93256317/5aebb3e4-197a-42bc-be79-71dd6727c0e4" width="80" height="80"> <img src="https://github.com/William2819/Portfolio/assets/93256317/55398ef8-c039-4aa9-9e37-644da1862639" width="80" height="80">
+
+### Contribuições Pessoais
+<div>
+
+Desenvolvi a parte do Back-end do projeto utilizando as tecnologias Python e flask para a raspagem de dados. Também ajudei o time de Front-end na criação do design das telas assim como na parte da criação da interface programada utilizando as tecnologias HTML e CSS.
+</div>
+
+
+### Hard Skills
+
+<div align="left">
+
+ Python █████████░░░░░░░░
+Flask █████░░░░░░░░░░░░
+HTML/CSS ████████████░░░░░
+</div>
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
 
 Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
+
+<div align="center">
+  
+  [Repositório do projeto](https://github.com/William2819/API-Equipe-6)
+</div>
 
 Em 2022-1
 Mesmo formato
