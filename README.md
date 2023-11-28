@@ -76,12 +76,6 @@ Para solucionar esse problema, foi utilizado Python juntamente com um framework 
 
 <br />
 
-### O projeto
-----------------------------------------------------------------------------
-<img src="https://github.com/William2819/Portfolio/assets/93256317/42a07b3a-28d0-47a6-9b38-8327e3e15412">
-
-<br />
-
 ### Tecnologias Utilizadas
 ----------------------------------------------------------------------------
 - Python e Flask para raspagem automática dos repositórios
@@ -131,7 +125,94 @@ para que o trabalho em grupo fosse harmonioso.
 :star2: [Repositório do projeto](https://github.com/FATEC0SJC/API-Equipe-6) :star2:
 </div>
 
-Em 2022-1
+## 2022-1
+### *2° Semestre - Projeto Pro4Tech*
+
+<img src="https://github.com/William2819/Portfolio/assets/93256317/f29d27cf-0abb-4212-a734-21733e6f51c4" width="1000" height="200">
+
+
+<br />
+
+<br />
+
+<div> 
+  
+A empresa parceira foi a  [Pro4Tech](https://www.pro4tech.com.br/) que confiou a mim e a minha equipe a tarefa de melhorar a comunicação entre 
+funcionários e clientes. A tarefa passada também inclui um melhoramento da organização de projetos em andamento.
+
+<br />
+
+Para solucionar o problema da organização de projetos, foi criado um sistema desktop utilizando [Java](https://www.java.com/en/download/help/whatis_java.html)
+tanto na interface quanto no funcionamento. O sistema conta com 2 interfaces diferentes, uma interface para o administrador e outra interface para o funcionário. A interface para o administrador possibilita que ele crie projetos, adicione informações de clientes e que crie, edite e remova novos usuários ao sistema. A interface para o funcionário conta apenas com a aba de projetos e mensagens, o sistema para esse usuário possibilita apenas visualização dos projetos e informações de clientes, pois, para esse nível de usuário, o foco principal está no sistema de chat para que o funcionário possa entrar em contato com os clientes.A troca de interface/usuário é através de um sistema de login feito com Java, e para o armazenamento dos dados dos clientes e as informações para login
+foi utilizado em conjunto o banco de dados relacional [MySQL](https://www.mysql.com/why-mysql/).
+
+<br />
+
+O sistema de chat funciona a partir de um servidor que foi construído com [NodeJs](https://nodejs.org/en/learn) e [SocketIO](https://socket.io/docs/v4/). O sistema de chat permite que o funcionário fale com os clientes em tempo real e torna-se possível ver se o usuário está online ou não.
+
+<br />
+
+Foi implementado também um sistema de relatório usando o [Jaspersoft](https://www.jaspersoft.com/why-jaspersoft) que mostra o tempo de interações total e o tempo de resposta em minutos. O relatório também contém as informações de qual usuário está vindo esse relatório e de qual projeto se refere.
+
+</div>
+
+<br />
+
+### Tecnologias Utilizadas
+----------------------------------------------------------------------------
+- Java para interface e funcionamento do sistema
+
+<img src="https://github.com/William2819/Portfolio/assets/93256317/679e2d5f-bd8d-4e07-a527-67798e9b509c" width="80" height="80">
+
+- MySQL para armazenamentos gerais
+  
+<img src="https://github.com/William2819/Portfolio/assets/93256317/82516e2d-52f5-46af-9f30-53101727a79d" width="80" height="80">
+
+- Node.js e SocketIO para sistema de chat online
+
+<img src="https://github.com/William2819/Portfolio/assets/93256317/4f28c0e3-00e9-4df4-bf90-d169c5e06324" width="80" height="80">
+<img src="https://github.com/William2819/Portfolio/assets/93256317/98b40dc9-d947-4feb-b3f8-b1dea434b5f7" width="80" height="80">
+
+- Jaspersoft para sistema de relatório
+<img src="https://github.com/William2819/Portfolio/assets/93256317/c30bcc94-f4c4-4606-a7a1-8fa3a57bd241" width="80" height="80">
+
+### Contribuições Pessoais
+----------------------------------------------------------------------------
+<div>
+
+Desenvolvi a parte do Back-end do projeto utilizando as tecnologias Java para o desenvolvimento do sistema, MySQL como banco de dados para salvar as informações do sistema e Jaspersoft para criar o relatório de forma automática. Também ajudei o time de Front-end na criação do design das telas.
+</div>
+
+
+### Hard Skills
+----------------------------------------------------------------------------
+
+<div align="left">
+  
+![Projeto 2_1](https://github.com/William2819/Portfolio/assets/93256317/22466199-6468-4aec-baac-da90e0d09f7a)
+
+
+</div>
+
+<div align="left">
+
+### Soft Skills
+----------------------------------------------------------------------------
+#### 1. Comunicação:
+- Pude aprimorar minha habilidade comunicativa, pois, foi um trabalho difícil para todos e com uma boa comunicação foi possível um bom
+alinhamento da equipe.
+
+#### .2 Trabalho em grupo:
+- A responsabilidade de fazer a minha parte de forma funcional fez com que eu crescesse no sentido pessoal e profissional, pois,
+eu fazia parte de algo grande e que acarretaria diretamente na vida educativa dos demais integrantes do grupo.
+</div>
+
+<br />
+
+<div align="center">
+  
+:star2: [Repositório do projeto](https://github.com/William2819/Pro4System) :star2:
+</div>
 Mesmo formato
 
 Em 2022-2
