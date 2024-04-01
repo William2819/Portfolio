@@ -8,7 +8,7 @@
 <div align="center"> 
   
   Este Portfólio tem como objetivo apresentar projetos realizados na FATEC São José dos Campos - Prof. Jessen Vidal no curso de ADS (Análise e Desenvolvimento de Sistemas). 
-  Sob a orientação do professor [Fernando Massanori](https://www.linkedin.com/in/fmasanori/), este portfólio será avaliado na disciplina de Trabalho de Graduação I.
+  Sob a orientação do professor [Fernando Massanori](https://www.linkedin.com/in/fmasanori/), este portfólio será avaliado na disciplina de Trabalho de Graduação.
 </div>
 
 ----------------------------------------------------------------------------------
