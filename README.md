@@ -30,7 +30,7 @@
 onde tive contato pela primeira vez com programação. Comecei programando com linguagem de baixo nível, mais especificamente a linguagem [Assembly](https://coodesh.com/blog/dicionario/o-que-e-assembly-language/), e posteriormente
 uma linguagem de alto nível chamado [Arduino](https://www.arduino.cc/en/Guide/Introduction).
 
-  Atualmente, estou no 5° Semestre do curso de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Esta graduação possibilitou-me agregar conhecimentos em diversos tipos de linguagem de programação
+  Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos - Prof. Jessen Vidal. Esta graduação possibilitou-me agregar conhecimentos em diversos tipos de linguagem de programação
 e também ofereceu diversos desafios propostos por empresas reais o qual me aproximou muito da realidade da profissão.
 
 <br />
