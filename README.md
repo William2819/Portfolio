@@ -214,3 +214,183 @@ eu fazia parte de algo grande e que acarretaria diretamente na vida educativa do
 :star2: [Repositório do projeto](https://github.com/William2819/Pro4System) :star2:
 </div>
 
+## 2022-2
+### *3° Semestre - Projeto Embraer*
+
+<img src="https://user-images.githubusercontent.com/111146527/187034325-4177c60a-7fe7-49d7-bfe5-edd254dfd6ba.png" width="1000" height="200">
+
+
+<br />
+
+<br />
+
+<div> 
+  
+A empresa parceira foi a  [Embraer](https://embraer.com/br/pt) A empresa precisava que os pilotos fizessem uma análise do comprimento de pista requerida para o pouso de acordo com alguns parâmetros. Em função dos parâmetros passados, o piloto será capaz de calcular a distância necessária para pousar a aeronave. Se a pista do aeroporto de destino não for grande o suficiente para realização do pouso com segurança, o piloto deve buscar alguma alternativa.
+
+<br />
+
+### Tecnologias Utilizadas
+----------------------------------------------------------------------------
+
+- HTML e CSS para a criação e estilização dos componentes das páginas web.
+
+<img src="https://github.com/William2819/Portfolio/assets/93256317/5aebb3e4-197a-42bc-be79-71dd6727c0e4" width="80" height="80"> <img src="https://github.com/William2819/Portfolio/assets/93256317/55398ef8-c039-4aa9-9e37-644da1862639" width="80" height="80">
+
+- React para criar interfaces de usuário interativas e reativas.
+
+<img width="80" height="80" src="https://img.icons8.com/office/80/react.png" alt="react"/>
+
+- TypeScript para tipagem estática ao JavaScript.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/typescript.png" alt="typescript"/>
+
+- Bootstrap para acelerar o desenvolvimento de interfaces web responsivas.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/bootstrap--v2.png" alt="bootstrap--v2"/>
+
+- JavaScript para a realização dos cálculos no BackEnd.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/>
+
+- Node.js para executar código JavaScript no servidor.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
+
+- Express para combinação de um servidor rápido e flexível com uma biblioteca de interface do usuário eficiente.
+
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
+
+- Figma para desenvolver o protótipo.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/figma--v1.png" alt="figma--v1"/>
+
+
+### Contribuições Pessoais
+----------------------------------------------------------------------------
+<div>
+
+Desenvolvi a parte do Back-end do projeto utilizando as tecnologias JavaScript e Typescript para o desenvolvimento da calculadora. A partir dessa informação, o piloto consegue determinar quanto de pista ele necessita para pousar, ou em caso de a pista não ser adequada, ele poderá tomar outro rumo.
+</div>
+
+
+### Hard Skills
+----------------------------------------------------------------------------
+
+<div align="left">
+  
+![Projeto 2_1](https://github.com/William2819/Portfolio/assets/93256317/1307f631-3513-4fe7-8121-b279b0162b60)
+
+
+</div>
+
+<div align="left">
+
+### Soft Skills
+----------------------------------------------------------------------------
+#### 1. Comunicação:
+- Pude aprimorar minha habilidade comunicativa, pois, foi um trabalho difícil para todos e com uma boa comunicação foi possível um bom
+alinhamento da equipe.
+
+#### 2. Trabalho em grupo:
+- A responsabilidade de fazer a minha parte de forma funcional fez com que eu crescesse no sentido pessoal e profissional, pois,
+eu fazia parte de algo grande e que acarretaria diretamente na vida educativa dos demais integrantes do grupo.
+
+### 3. Adaptabilidade:
+- Adaptar-me a uma grande quantidade de novas tecnologias foi difícil mas me fez evoluir nos estudos. 
+</div>
+
+<br />
+
+<div align="center">
+  
+:star2: [Repositório do projeto](https://github.com/William2819/Projeto-Embraer) :star2:
+</div>
+
+## 2023-1
+### *4° Semestre - Projeto IONIC Health*
+
+<img src="https://user-images.githubusercontent.com/111146527/227815206-46a81688-4715-4b95-a693-7b111edfa3e3.png" width="1000" height="200">
+
+
+<br />
+
+<br />
+
+<div> 
+  
+A empresa parceira foi a  [IONIC Health](https://pt-br.ionic.health/) Este projeto tem como objetivo, através de uma aplicação web, resolver o problema de gerenciamento de chamados da empresa, tornando mais organizado a criação de novos chamados, as avaliações das solicitações e o controle de produção das implementações ou correções de erros nos projetos, tendo todo o processo gerenciado pelo sistema.
+
+<br />
+
+### Tecnologias Utilizadas
+----------------------------------------------------------------------------
+
+- SASS para estilização da interface.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/sass.png" alt="sass"/>
+
+- React para criar interfaces de usuário interativas e reativas.
+
+<img width="80" height="80" src="https://img.icons8.com/office/80/react.png" alt="react"/>
+
+- TypeScript para criação do Front-end.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/typescript.png" alt="typescript"/>
+
+- Node.js para executar no servidor.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
+
+- Express para combinação de um servidor rápido e flexível com uma biblioteca de interface do usuário eficiente.
+
+<img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
+
+- Docker para implantar aplicativos dentro de containers virtuais.
+
+<img width="96" height="96" src="https://img.icons8.com/color/96/docker.png" alt="docker"/>
+
+- MySQL para armazenamentos gerais
+  
+<img src="https://github.com/William2819/Portfolio/assets/93256317/82516e2d-52f5-46af-9f30-53101727a79d" width="80" height="80">
+
+### Contribuições Pessoais
+----------------------------------------------------------------------------
+<div>
+
+Desenvolvi a parte do Back-end do projeto utilizando as tecnologias Typescript, React e Node.js para o desenvolvimento do sistema.
+</div>
+
+
+### Hard Skills
+----------------------------------------------------------------------------
+
+<div align="left">
+  
+![Projeto 2_1](https://github.com/William2819/Portfolio/assets/93256317/1d4333c5-9ae6-464d-9e3e-49cfde1d02d9)
+
+</div>
+
+<div align="left">
+
+### Soft Skills
+----------------------------------------------------------------------------
+#### 1. Comunicação:
+- Pude aprimorar minha habilidade comunicativa, pois, foi um trabalho difícil para todos e com uma boa comunicação foi possível um bom
+alinhamento da equipe.
+
+#### 2. Trabalho em grupo:
+- A responsabilidade de fazer a minha parte de forma funcional fez com que eu crescesse no sentido pessoal e profissional, pois,
+eu fazia parte de algo grande e que acarretaria diretamente na vida educativa dos demais integrantes do grupo.
+
+### 3. Adaptabilidade:
+- Adaptar-me a uma grande quantidade de novas tecnologias foi difícil mas me fez evoluir nos estudos. 
+</div>
+
+<br />
+
+<div align="center">
+  
+:star2: [Repositório do projeto](https://github.com/William2819/Projeto-IONIC-Health) :star2:
+</div>
+
